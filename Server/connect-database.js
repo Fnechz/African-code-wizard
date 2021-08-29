@@ -23,4 +23,6 @@ async function run() {
   }
   
   // Run the async function
-  run();
+
+
+module.exports = run
