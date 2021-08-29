@@ -31,7 +31,7 @@ The Repo is a project made by African-code-wizard
 Team Members
 -------------
 <ul>
-    <li>Eronini Gabriel AKA @iamgabrielsoft</li>
+    <li>Eronini Gabriel AKA https://twitter.com/iamgabrielsoft</li>
     <li>Farai Nechikwira</li>
     <li>Satyam Gupta</li>
 </ul>
