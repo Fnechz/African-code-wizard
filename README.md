@@ -3,7 +3,7 @@
 ## EXPENSE-TRACKER APPLICATION
 - 
 
-<img src="./Datasax_Hackerthon.png" width="100">
+<img src="Datasax_Hackerthon.png" width="100">
 <h4 align="center">API STRUCTURE</h4>
 
 
