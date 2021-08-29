@@ -1,6 +1,6 @@
 
 
-## EXPENSE-TRACKER APPLICATION 
+## EXPENSE-TRACKER APPLICATION
 - 
 
 
@@ -49,5 +49,14 @@ Project Structure
 
 
 
-List of Packages
+List of Tools Used
 ----------------
+| Package                         | Description                                                             |
+| ------------------------------- | ------------------------------------------------------------------------|
+| cassandra-driver                | Connecting to Casandra           DB                                     |
+| bcrypt                          | Library for hashing and salting user passwords.                         |
+| body-parser                     | Node.js body parsing middleware.                                        |
+| chai                            | BDD/TDD assertion library.                                              |
+| dotenv                          | Loads environment variables from .env file.                             |
+
+                  
