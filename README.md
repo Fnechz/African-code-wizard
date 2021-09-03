@@ -32,7 +32,7 @@ Team Members
 -------------
 <ul>
     <li>Eronini Gabriel AKA https://twitter.com/iamgabrielsoft</li>
-    <li>Farai Nechikwira</li>
+    <li>Farai Nechikwira AKA https://twitter.com/fnechz</li>
     <li>Satyam Gupta</li>
 </ul>
 
